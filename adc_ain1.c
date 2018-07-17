@@ -209,7 +209,7 @@ static void __exit adc_exit(void)
 module_init(adc_init);
 module_exit(adc_exit);
  
-MODULE_AUTHOR("KevinLee <www.ielife.cn>");
+MODULE_AUTHOR("JasonWu");
 MODULE_DESCRIPTION("Mini2440ADC Misc Device Driver");
 MODULE_VERSION("MINI2440ADC 1.0");
 MODULE_LICENSE("GPL");
